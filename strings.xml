@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InaiB</string>
+    <string name="url_hint">Search or type web address</string>
+    <string name="cd_reload">Reload or stop</string>
+    <string name="cd_tabs">Tabs</string>
+    <string name="cd_menu">Menu</string>
+</resources>

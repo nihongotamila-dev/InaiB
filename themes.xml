@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Day mode on Android 6+: dark status-bar icons on the light bar -->
+    <style name="Theme.InaiB" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/bar</item>
+        <item name="android:statusBarColor">@color/bar</item>
+        <item name="android:navigationBarColor">@color/bg</item>
+        <item name="android:colorAccent">@color/accent</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
